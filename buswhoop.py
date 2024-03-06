@@ -18,3 +18,8 @@ password = input(Password: ')
 
 #getpass goes here
 
+@app.route('/index')
+bussearch = userinput 
+busnamerequest.bus = bussearch
+
+
