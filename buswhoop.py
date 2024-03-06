@@ -12,3 +12,9 @@ setattr(bus, first_key, first_val)
 first = getattr(bus, first_key)
 
 print(first)
+
+username = input(Username: ')
+password = input(Password: ')
+
+#getpass goes here
+
