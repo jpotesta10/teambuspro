@@ -1,3 +1,9 @@
+from flask impport request
+
+@app.route ('index' method = [POST])
+def teambusrequest = userinput input
+
+
 class Bus():
   pass
 
