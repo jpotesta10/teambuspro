@@ -1,8 +1,8 @@
 from flask impport request
 
 @app.route ('index' method = [POST])
-def teambusrequest = userinput input
-return _ (request.form input ('/index'))
+def addteambusrequest(): = userinput input
+return _ (request.form ['/index'])
 
 
 class Bus():
@@ -28,5 +28,7 @@ password = input(Password: ')
 @app.route('/index')
 bussearch = userinput 
 busnamerequest.bus = bussearch
+
+str.find(bussearchinput)
 
 
