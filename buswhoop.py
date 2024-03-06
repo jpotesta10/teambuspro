@@ -2,7 +2,7 @@ from flask impport request
 
 @app.route ('index' method = [POST])
 def teambusrequest = userinput input
-return _ requestinput ('/index')
+return _ (request.form input ('/index'))
 
 
 class Bus():
