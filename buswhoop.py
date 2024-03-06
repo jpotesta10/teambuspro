@@ -31,4 +31,8 @@ busnamerequest.bus = bussearch
 
 str.find(bussearchinput)
 
+if exists 
+return "Team Bus Whoop"
+else return "False"
+
 
